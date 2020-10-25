@@ -100,4 +100,5 @@
 // Git status
 // Git add -A
 // Git add *.css
+// Git commit -a -m"First commit"
 
