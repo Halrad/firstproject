@@ -97,8 +97,20 @@
 // Урок 10
 
 // Git init
+// Git config --local user.name
+// Git config --local user.email
 // Git status
 // Git add -A
 // Git add *.css
 // Git commit -a -m"First commit"
+// Git log
+// Git remote add origin https://....
+// Git push -u origin master
+// Git push 
 
+// Урок 11
+// git clone https://..... - склонировать репозиторий в новую папку
+// git status
+// git add -A
+// git commit -a -m"Index.html has been changed"
+// git push
